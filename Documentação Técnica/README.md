@@ -2,7 +2,7 @@
 
 Esta pasta armazena os documentos textuais e a fundamentação teórica que estruturam o projeto acadêmico do Mini Rack / Data Center.
 
-**Responsável:** Ana Carolina Lisboa
+**Responsável:** Ana Carolina Lisboa e Ana Luíza Lagos
 
 ### O que você encontra aqui
 
